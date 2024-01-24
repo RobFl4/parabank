@@ -6,3 +6,5 @@ This folder contains all the necessary software and installation manuals to foll
     o	Chrome Selenium IDE plug-in
     o	Visual Studio Code
 3.	Apache Tomcat 9.0: Installing Tomcat 9.0.pdf, incl. war-file ParaBank
+
+Please read the manual: Getting Started with Test Automation.pdf for further instructions.
